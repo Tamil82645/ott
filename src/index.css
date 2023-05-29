@@ -1,0 +1,392 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+* {
+
+  margin: 0px;
+  padding: 0px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  box-sizing:border-box;
+}
+
+#navbar{
+  color: black;
+  background-color: rgb(248, 164, 153);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px ;
+  position: sticky;
+  top: 0px;
+  z-index: 1;
+  
+}
+#logo h1{
+  font-family: 'Dancing Script', cursive;
+  letter-spacing: 4px;
+}
+#search-bar input{
+  width: 300px;
+  height: 35px;
+  border: none;
+  padding-left: 20px;
+  border-radius: 4px;
+  font-size: 15px;
+}
+#search-bar button{
+  width: 80px;
+  height: 35px;
+  border: none;
+  border-radius: 4px;
+  margin-left: -80px;
+  font-size: 15px;
+}
+#add-movie a{
+  color: white;
+  font-size: 18px;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 4px;
+  transition: 0.3s linear;
+}
+#add-movie a:hover{
+  background-color: white;
+  color: rgb(248, 164, 153);
+  font-size: 18px;
+  text-decoration: none;
+}
+#fav-movie a{
+  color: white;
+  font-size: 18px;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 4px;
+  transition: 0.3s linear;
+}
+#fav-movie a:hover{
+  background-color: white;
+  color: rgb(248, 164, 153);
+  font-size: 18px;
+  text-decoration: none;
+}
+#logo img{
+  width: 50px;
+  height: 50px;
+}
+#logo{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.All-movies{
+  margin-top: 40px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+.Movie-data{
+  
+  margin:20px 20px; 
+  border: 2px solid rgb(248, 120, 103);
+  background:  transparent;
+  padding: 10px 10px;
+  border-radius:10px;
+  transition: 0.3s;
+  color: rgb(228, 97, 80) ;
+
+}
+.home{
+  background:  rgb(240, 183, 176);
+  width: 100vw;
+  height: 600vh;
+}
+.Movie-data:hover{
+  transform: scale(1.05);
+  box-shadow: 5px 5px 5px 5px  rgb(248, 120, 103);
+  background: rgb(243, 145, 132) ;
+
+}
+#h12{
+  text-decoration: none;
+  color:black;
+  text-align:center;
+}
+.Movie-data img{
+  border-radius:10px;
+}
+.Add-movie{
+  background: transparent;
+  width: 400px;
+  height: 1100px;
+  margin-left:40%;
+  display: grid ;
+  align-items: center;
+  box-shadow: 5px 5px 25px 10px rgb(248, 120, 103);
+  position: absolute;
+  top: 130px;
+  padding: 20px 0px;
+  border-radius: 5px;
+  
+}
+#inupt1{
+  
+  width: 350px;
+  height: 30px;
+   margin: 20px 25px;
+   border-radius:5px;
+   border: 1px solid ;
+   text-align: center;
+}
+.sec{
+  background: rgb(240, 183, 176);
+  width:200vw;
+  height:200vh;
+  
+}
+#h24{
+  background: rgb(233, 181, 174) ;
+  color: black;
+  font-family: cursive;
+  text-align: center;
+}
+#btn{
+  background: rgb(233, 181, 174);
+  height: 30px;
+  width: 150px;
+  margin-left: 25%;
+  border: 1px solid ;
+  border-radius: 5px;
+  color: black;
+}
+#btn:hover{
+  background: white;
+  border: none;
+  box-shadow: 3px 3px 7px 7px rgb(248, 120, 103);
+}
+.add-movie i{
+  color: white;
+  border-radius: 360x;
+}
+.ide{
+  background: transparant;
+  width: 800px;
+  height: 700px;
+  
+}
+.bnc{
+  background: rgb(240, 183, 176);
+  width:100%;
+  height: 100%;
+  padding-left:20%;
+  color:rgb(248, 120, 103);
+  display: block;
+  justify-content: space-between;
+}
+#int{
+  width: 250px;
+  height: 80px;
+   margin: 20px 25px;
+   border-radius:5px;
+   border: 1px solid ;
+   text-align: center;
+}
+#pca{
+  border: none;
+  margin-left: 40px;
+}
+#pca legend{
+  font-size: 20px;
+  font-weight: bold;
+}
+#txt{
+  border: 1px solid black;
+  width: 350px;
+  background: transparent;
+  margin: 10px 25px;
+}
+#pkp{
+  font-size: 20px;
+  margin: 10px 40px;
+  font-weight: bold;
+}
+.trial{
+  width: 810px;
+  height: 410px;
+  border: 5px solid rgb(248, 120, 103);
+}
+#tit{
+  text-align: center;
+  position: sticky;
+  top: 100px;
+}
+#heart{
+  background: transparent;
+  border: none;
+  font-size: 30px;
+  color: red;
+  position:absolute;
+  top:6px;
+  animation: emptyheart 0.5s;
+}
+@keyframes emptyheart {
+  0%{
+    transform: scale(0);
+  }
+  60%{
+    transform: scale(1.2);
+  }
+  100%{
+    transform: scale(1);
+  }
+}
+#heart1{
+  background: transparent;
+  border: none;
+  font-size: 30px;
+  color: red;
+  position:absolute;
+  top:6px;
+  animation: filledheart 0.5s;
+}
+@keyframes filledheart {
+  0%{
+    transform: scale(0);
+  }
+  60%{
+    transform: scale(1.2);
+  }
+  100%{
+    transform: scale(1);
+  }
+}
+.fav{
+  width: 100%;
+  height: 100%;
+  background:  rgb(240, 183, 176) ;
+}
+#del{
+  background: red;
+  color: white;
+  width: 50px;
+  height: 30px;
+  border: 2px solid white;
+  border-radius: 5px;
+}
+#del:hover{
+  background: white;
+  color: red;
+  border: 2px solid red;
+
+}
+.loader{
+  background: transparent;
+  border:   16px solid #f3f3f3;
+  margin-left: 45%;
+  border-top: 16px solid rgb(248, 120, 103) ;
+  border-bottom: 16px solid rgb(248, 120, 103) ;
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+  animation: spin 2s linear infinite;
+}
+@keyframes spin{
+  0%{transform: rotate(0deg);}
+  100%{transform: rotate(360deg);}
+}
+#search{
+  text-decoration:none;
+  color:black;
+  border:none;
+  
+}
+.ser{
+  width:100vw;
+  height: 100vh;
+  background:  rgb(240, 183, 176) ;
+}
+#ham{
+  display: none;
+}
+/* =============================Responsive Style=============================== */
+@media (max-width: 1080px) {
+  #navbar{
+    /* color: black;
+    background-color: rgb(248, 164, 153);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  
+    position: sticky;
+    top: 0px;
+    z-index: 1; */
+    padding: 20px  6px ;
+    
+  }
+  #logo h1{
+    /* font-family: 'Dancing Script', cursive;
+    letter-spacing: 4px; */
+    font-size: 25px;
+  }
+  #search-bar input{
+    /* width: 300px;
+    height: 35px;
+    border: none;
+    padding-left: 20px;
+    border-radius: 4px;
+    font-size: 15px; */
+    width: 250px;
+    height: 35px;
+    font-size: 13px;
+
+  }
+  #search-bar button{
+    /* width: 80px;
+    height: 35px;
+    border: none;
+    border-radius: 4px;
+    margin-left: -80px;
+    font-size: 15px; */
+  }
+  #add-movie a ,#fav-movie a{
+    /* color: white;
+    font-size: 18px;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 4px;
+    transition: 0.3s linear; */
+    display: none;
+  }
+ #ham{
+  display: block;
+ }
+  #sp{
+    font-size: 30px;
+  }
+  #logo img{
+    /* width: 50px;
+    height: 50px; */
+  }
+  #logo{
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+  }
+  #menu{
+    background-color: rgb(248, 164, 153);
+    border: none;
+  }
+  #menu:hover{
+    border: none;
+    box-shadow: 5px 5px 5px 5px;
+    padding: 5px 10px;
+  }
+  #menu a{
+    display: block;
+    margin: 5px 10px; 
+  }
+
+}
+
+

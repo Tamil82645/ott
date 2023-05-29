@@ -1,0 +1,290 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "moviename": "pirates of the caribbean ",
+      "hero": "Jhonny Deppo",
+      "director": " Gore Verbinski",
+      "duration": "2hr 23m",
+      "languages": [
+        "tamil",
+        "telugu",
+        "kannada",
+        "Hindi",
+        "Malayalam",
+        "english",
+        "japnese"
+      ],
+      "genre": " an American fantasy supernatural film series",
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeTNGcs--grnZhKj978PyNUL4GsuSh7-WlEQ&usqp=CAU",
+      "trailer": "https://www.youtube.com/embed/6-NGPgX-uYA",
+      "release": "2006",
+      "rating": "8.1",
+      "synopsis": "Pirates of the Caribbean is an American fantasy supernatural swashbuckler film series produced by Jerry Bruckheimer and based on Walt Disney's theme park attraction of the same name. The film series serves as a major component of the eponymous media franchise."
+    },
+    {
+      "id": "2",
+      "moviename": "kgf",
+      "hero": "yash",
+      "director": " Prashanth Neel",
+      "duration": "2hr 40m",
+      "languages": [
+        "tamil",
+        "telugu",
+        "kannada",
+        "Hindi",
+        "Malayalam",
+        "english",
+        "japnese"
+      ],
+      "genre": " Action and thriller movie",
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQACLP0qbOWwqlrUib4_WJnBGWylio6h72rCQ&usqp=CAU",
+      "trailer": "https://www.youtube.com/embed/VvTymE--3lc",
+      "release": "2018",
+      "rating": "9.8",
+      "synopsis": "K.G.F is an Indian Kannada-language period gangster film series set mostly in the Kolar Gold Fields, which gives the series its name, created by Prashanth Neel and produced by Hombale Films starring Yash in lead role with an ensemble supporting cast"
+    },
+    {
+      "id": "3",
+      "moviename": "John wick",
+      "hero": "Keanu Reeves",
+      "director": "Chad Stahelski",
+      "duration": "2hr 49m",
+      "languages": [
+        "tamil",
+        "telugu",
+        "kannada",
+        "Hindi",
+        "Malayalam",
+        "english",
+        "japnese"
+      ],
+      "genre": " Action and thriller movie",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/John_Wick_TeaserPoster.jpg/220px-John_Wick_TeaserPoster.jpg",
+      "trailer": "https://www.youtube.com/embed/qEVUtrk8_B4",
+      "release": "2023",
+      "rating": "8.4",
+      "synopsis": "With the price on his head ever increasing, legendary hit man John Wick takes his fight against the High Table global as he seeks out the most powerful players in the underworld, from New York to Paris to Japan to Berlin."
+    },
+    {
+      "id": "4",
+      "moviename": "Fast & Furious 6",
+      "hero": "vin diesel",
+      "director": "Louis Leterrier",
+      "duration": "2hr 10m",
+      "languages": [
+        "tamil",
+        "telugu",
+        "kannada",
+        "Hindi",
+        "Malayalam",
+        "english",
+        "japnese"
+      ],
+      "genre": " Action and  movie",
+      "poster": "https://stimg2.cardekho.com/images/carNewsimages/userimages/650X420/10458/Features.jpg",
+      "trailer": "https://www.youtube.com/embed/dKi5XoeTN0k",
+      "release": "2013",
+      "rating": "7",
+      "synopsis": "Hobbs is tasked with catching a team of mercenary drivers who manage to evade him every time. However, he enlists the help of Dominic and his team in exchange for full pardons for their past crimes."
+    },
+    {
+      "id": "5",
+      "moviename": "Harry Potter",
+      "hero": "Daniel Radcliffe",
+      "director": "David Yates",
+      "duration": "2hr 18m",
+      "languages": [
+        "tamil",
+        "telugu",
+        "kannada",
+        "Hindi",
+        "Malayalam",
+        "english",
+        "japnese"
+      ],
+      "genre": " Fantsy  movie",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOTA3MmRmZDgtOWU1Ny00ZDc5LWFkN2YtNzNlY2UxZmY0N2IyXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+      "trailer": "https://www.youtube.com/embed/y6ZW7KXaXYk",
+      "release": "2013",
+      "rating": "7.5",
+      "synopsis": "Harry Potter and Dumbledore's warning about the return of Lord Voldemort is not heeded by the wizard authorities who, in turn, look to undermine Dumbledore's authority at Hogwarts and discredit Harry."
+    },
+    {
+      "id": "6",
+      "moviename": "love today",
+      "hero": "Pradeep Ranganathan",
+      "director": "Pradeep Ranganathan",
+      "duration": "2hr 34m",
+      "languages": [
+        "tamil",
+        "telugu",
+        "kannada",
+        "Hindi",
+        "Malayalam",
+        "english",
+        "japnese"
+      ],
+      "genre": " Romance movie",
+      "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/love-today-et00343241-1667476540.jpg",
+      "trailer": "https://www.youtube.com/embed/FaQe8JFGdaM",
+      "release": "2022",
+      "rating": "8.1",
+      "synopsis": "While a couple is deeply in love, the girl's father challenges the two to switch their phones with each other to test their relationship. Chaos ensues as the lovers' secrets are unearthed."
+    },
+    {
+      "id": "7",
+      "moviename": "Raam",
+      "hero": "Jiiva",
+      "director": "Ameer sultan",
+      "duration": "2hr 15m",
+      "languages": [
+        "tamil",
+        "telugu",
+        "kannada",
+        "Hindi",
+        "Malayalam",
+        "english",
+        "japnese"
+      ],
+      "genre": " mistry and thriller movie",
+      "poster": "https://images.jdmagicbox.com/comp/jd_social/news/2018jul28/image-166079-w0mqmu3eu6.jpg",
+      "trailer": "https://www.youtube.com/embed/boNm4r2WbjU",
+      "release": "2005",
+      "rating": "7.4",
+      "synopsis": "Ram, a young man who is extremely attached to his mother, is suspected to be behind her murder. Soon, the combined efforts of Ram and the police lead them to the real killer."
+    },
+    {
+      "id": "8",
+      "moviename": "ponniyin selvan",
+      "hero": "Vikram",
+      "director": "Mani Rathnam",
+      "duration": "2hr 44m",
+      "languages": [
+        "tamil",
+        "telugu",
+        "kannada",
+        "Hindi",
+        "Malayalam",
+        "english",
+        "japnese"
+      ],
+      "genre": " historic movie",
+      "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/ponniyin-selvan--part-2-et00348764-1680776485.jpg",
+      "trailer": "https://www.youtube.com/embed/EnhS3matIoU",
+      "release": "2023",
+      "rating": "8.4",
+      "synopsis": "Arulmozhi Varman continues on his journey to become Rajaraja I, the greatest ruler of the historic Chola empire of south India."
+    },
+    {
+      "id": "9",
+      "moviename": "Lusifer",
+      "hero": "Mohanlal",
+      "director": " Prithviraj Sukumaran",
+      "duration": "2hr 54m",
+      "languages": [
+        "tamil",
+        "telugu",
+        "kannada",
+        "Hindi",
+        "Malayalam",
+        "english",
+        "japnese"
+      ],
+      "genre": " political and Action thriller movie",
+      "poster": "https://i.ytimg.com/vi/Qxb6oCcRPT8/hqdefault.jpg",
+      "trailer": "https://www.youtube.com/embed/x1-Ya0NZQso",
+      "release": "2019",
+      "rating": "7.5",
+      "synopsis": "A major power struggle occurs when the leader of a political party passes away. In the midst of the chaos, a mysterious man named Stephen steps in to ascend the throne."
+    },
+    {
+      "id": "10",
+      "moviename": "Banglore Days",
+      "hero": "Nivin pauly",
+      "director": "Anjali Menon",
+      "duration": "2hr 52m",
+      "languages": [
+        "tamil",
+        "telugu",
+        "kannada",
+        "Hindi",
+        "Malayalam",
+        "english",
+        "japnese"
+      ],
+      "genre": "Romantic comedy-drama movie",
+      "poster": "https://shinalitc.files.wordpress.com/2020/04/pctv-1000081352-vl-1.jpg",
+      "trailer": "https://www.youtube.com/embed/uVpHL5g4buY",
+      "release": "2014",
+      "rating": "8.3",
+      "synopsis": "Cousins, Divya, Kuttan and Arjun, fulfil their childhood dream of relocating to Bangalore. As they embrace the warmth of the city, they also face challenges that transform their lives."
+    },
+    {
+      "id": "11",
+      "moviename": "Avengers: Endgame",
+      "hero": "Robert Downey Jr.",
+      "director": "Stan lee",
+      "duration": "3hr 01m",
+      "languages": [
+        "tamil",
+        "telugu",
+        "kannada",
+        "Hindi",
+        "Malayalam",
+        "english",
+        "japnese"
+      ],
+      "genre": "Action-drama movie",
+      "poster": "https://lumiere-a.akamaihd.net/v1/images/p_avengersendgame_19751_e14a0104.jpeg?region=0%2C0%2C540%2C810",
+      "trailer": "https://www.youtube.com/embed/TcMBFSGVi1c",
+      "release": "2019",
+      "rating": "8.4",
+      "synopsis": "After Thanos, an intergalactic warlord, disintegrates half of the universe, the Avengers must reunite and assemble again to reinvigorate their trounced allies and restore balance."
+    },
+    {
+      "id": "12",
+      "moviename": "7G Rainbow Colony",
+      "hero": "Ravi krishna",
+      "director": " Selvaraghavan",
+      "duration": "2hr 55m",
+      "languages": [
+        "tamil",
+        "telugu",
+        "kannada",
+        "Hindi",
+        "Malayalam",
+        "english",
+        "japnese"
+      ],
+      "genre": "drama movie",
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkj7bXJ8Tc775b_zosFugL1C3AphdaTdd6Yg&usqp=CAU",
+      "trailer": "https://www.youtube.com/embed/EPZcEai7zLA",
+      "release": "2004",
+      "rating": "7.9",
+      "synopsis": "When a new girl, Anita, moves into his neighbourhood, Ravi, an underachiever, falls in love with her. Though he does everything in his power to woo her, he ends up making a fool of himself."
+    },
+    {
+      "id": "13",
+      "moviename": "96",
+      "hero": "vijay sethupathi",
+      "director": "Govindh vasanth",
+      "duration": "2hr 37m",
+      "languages": [
+        "tamil",
+        "telugu",
+        "kannada",
+        "Hindi",
+        "Malayalam",
+        "english",
+        "japnese"
+      ],
+      "genre": "Action-drama movie",
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR75cwGFHVD4qsyDgfZ_cC1dB2csNWiGcVcUA&usqp=CAU",
+      "trailer": "https://www.youtube.com/embed/r0synl-lI4I",
+      "release": "2018",
+      "rating": "8.5",
+      "synopsis": "K Ramachandran, a photographer, gets nostalgic after he visits his school in his hometown. During a reunion with his classmates, he meets Janaki, his childhood sweetheart."
+    }
+  ]
+}
